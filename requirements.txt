@@ -1,0 +1,13 @@
+--index-url https://download.pytorch.org/whl/cu118
+absl-py==2.1.0
+accelerate==0.29.3
+huggingface-hub==0.22.2
+pandas==2.2.2
+protobuf==5.26.1
+scikit-learn==1.4.2
+sympy==1.12
+torch==2.2.2+cu118
+torchaudio==2.2.2+cu118
+torchvision==0.17.2+cu118
+tqdm==4.66.2
+transformers==4.39.3
